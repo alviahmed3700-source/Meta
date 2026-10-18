@@ -1,0 +1,13 @@
+{
+    "config": {
+        "title": "Foysal Tools",
+        "adminName": "Foysal Ahmed",
+        "adminRole": "Cyber Administrator",
+        "theme": "purple",
+        "matrixBg": true,
+        "pinLock": "",
+        "customCss": ""
+    },
+    "customTools": [],
+    "timestamp": 1792236411684
+}
